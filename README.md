@@ -1,6 +1,6 @@
 # Smart-Water-Bottle
 
-Overview:
+Overview:  
 HydroSync is a cutting-edge smart water bottle designed to elevate your hydration experience. With its innovative features and seamless connectivity, HydroSync ensures that you stay on top of your water intake while enjoying a stylish and durable design.
 
 Features Thermal Regulation System:
